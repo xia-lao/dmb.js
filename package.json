@@ -1,0 +1,16 @@
+{
+  "name": "dbm",
+  "version": "1.0.0",
+  "description": "discrete bycentric model",
+  "main": "dbm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dbm",
+    "waer",
+    "cwene"
+  ],
+  "author": "Ljubosvet Lavrov",
+  "license": "MIT"
+}
